@@ -1,0 +1,6 @@
+framework module Pods_WFSwiftProject {
+  umbrella header "Pods-WFSwiftProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
